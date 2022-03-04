@@ -1,4 +1,8 @@
-# Lesson to refactor CSS to SCSS
+# Jackie sass project
+
+Due Friday.
+
+## Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
 
@@ -14,4 +18,5 @@ An easy way to use download and use a template from a repo is [degit](https://ww
 - Run `gulp dev` to run Sass and start the development server.
 
 For further directions, see the [Sass lesson](https://github.com/utdata/icj-class#sass).
-# jackie-sass
+
+## jackie-sass
